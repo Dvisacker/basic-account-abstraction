@@ -1,0 +1,7 @@
+{
+    "extends": "default",
+    "rules": {
+        "const-name-snakecase": "off",
+        "no-console": "off"
+    }
+}
